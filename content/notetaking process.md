@@ -6,8 +6,7 @@ draft: false
 ---
 **note taking process and rituals**
 1. zettelkasten way - organic and flat so there's less pressure to take notes
-2. notion as get things done!!
-3. 1-1s here? in private?
+2. notion as get things done!! system while obsidian for digital gardening
 4. random capture-away thoughts
 
 **daily rituals to adopt** 
