@@ -3,62 +3,48 @@ title: the tales of genji
 tags:
   - japanese-literature
   - book-reviews
-draft: false
+  - leaf
+draft: true
 ---
-date: 13-09-2023<br>
-venue: national library board, bugis 
-
+date: 13-09-2023, nlb seminar by professor deborah shamoon. 
 social context
 ---
 
 tales of genji - Murasaki (purple) 💜 shikibu (not real name)  
-late 9th to early 10th century  
-  
-not a religious text unlike literature of it's time period, it was written for entertainment  
-  
-less warfare, more romance. psychological interiority and characters development
+- written in late 9th to early 10th century  
+- not a religious text unlike literature of it's time period, it was written for entertainment because compared to most of the classics, tales of genji had less warfare, more romance. the focus was more on psychological interiority and characters development.
+- no og manuscripts and oldest copy is at least century later  
 
-fragment of calligraphy in tale of genji  
-  
-high ranking women wore junihutoe (12 layers of robe)  
-  
-courtships took place through exchange of poems and letters.  
-  
-visit for three nights meant married  
-novel is representing social realities of the time  
-  
-genji is a son of emperor and low ranking concubine so he will never be emperor  
 
----
+social courting
+- fragment of calligraphy in tale of genji  
+- high ranking women wore junihutoe (12 layers of robe)    
+- courtships took place through exchange of poems and letters.  
+- visit for three nights meant married  
+
 
 characters, structure & plot 
 ---
 **prince genji**  
-shining prince and he is the ideal man of the heian period  
+shining prince and he is the ideal man of the heian period 
+genji is a son of emperor and low ranking concubine so he will never be emperor  
 narrator also shows him doing bad things  
-no og manuscripts and oldest copy is at least century later  
   
 **challenges of reading genji**  
 no clear climax, ends abruptly  
-endless chapters  
+endless chapters, like a modern day taiwanese soap opera   
 language is distant from modern japanese. native japanese speakers can't read this. translations to modern japanese.  
 no names and referred to by ranks and titles.  
   
-**Waka poetry**  
-5-7-7-5 syllables, Waka syllabus is part of heian court and literature, very complicated  
+**waka poetry***  
+5-7-7-5 syllables, waka syllabus is part of heian court and literature, very complicated  
 based on allusions. part of artistry is taking well known tropes and fitting into the character situation.  
-  
 
-  
----  
-  
 **themes in the literature** 
+---
 - *moni no aware:* sadness of things, impermanence, things that don't last long, appreciation of beauty  
 - cycles of karmic retribution  
-- spirit possession - lady rokujo gives eerie gothic tone where illness caused by vengeful spirits  
-women and female anger seen as dangerously disruptive  
-kills lady aoi - genji's first wife - and then lady murusaki  
-
+- spirit possession - lady rokujo gives eerie gothic tone where illness caused by vengeful spirits. women and female anger are seen as dangerously disruptive  because lady rokujo kills lady aoi - genji's first wife - and then lady murusaki  
 
 **[[women writers]]**  
 ---
