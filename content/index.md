@@ -6,8 +6,7 @@ hello internet wanderer, you have stumbled to my public garden of thought. this 
 
 grammar edits and incongruence are aplenty. 
 
-**Interests**
-current areas of interests and abridged list of things i want to discover and learn more:
+current areas of **interests** and abridged list of things i want to discover and learn more:
 
 - [[natural history]]
 - technology as a tool ([[techno-optimism]])

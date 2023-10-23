@@ -2,7 +2,7 @@
 tags:
   - energy
 ---
-[battery energy](battery energy)
-solar energy 
-nuclear fusion energy 
-water 
+- [battery energy](battery energy)
+- solar energy 
+- nuclear fusion energy 
+- water 

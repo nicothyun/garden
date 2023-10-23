@@ -7,6 +7,24 @@ tags:
   - book-reviews
 date completed: 2023-10-22
 ---
+## Notes
+
+4/5 rating.
+
+Located in [[hiroshima, japan]], Black Rain shows the aftermath of August 6 1945's nuclear bombing. Throughout the book, the residents gradually makes sense of what happened; it was a war bomb but unlike any other bomb that came before. 
+
+There is no overt criticism from the writer and narrator for it places the focus on the residents' suffering, shock and their complex emotional landscape. The narrator paints the pain and suffering of the affected in a matter-of-fact tone, speaking as it is, showcasing the grotesque and factual horrors of the bombing aftermath on its people. 
+
+The atomic bomb scarred and transformed the physical and emotional topography of Hiroshima. The victims suffer thrice, first in tepid starvation and silent anger at the Imperial Japan Army. If it is as if the residents is accustomed to war, where it is bewilderingly commonplace to mobilize thousands of middle school students to assist with building demolition. Building demolition program was intended to create firebreaks to stop the spread of fires caused by air raids. 
+
+The victims suffer a second time, when the landmark atomic bomb lands on August 6; they suffer in painful agony and drawn-out deaths as thousands of residents are murdered, burned, disfigured and diseased from radiation sickness. Pus grows, maggots infest in their open wounds, their appetite slows, their hair falls, teeth drops and they fall to their death. 
+
+They suffer a third time, with guilt and shame as they are socially discriminated and labelled as hibakusha. Guilt from surviving the war while the rest of their common men did not. Shame from being a recovering patient, where even in good health, the certainty of marriage and employment becomes unclear.
+
+The book is a beautiful, open letter against war and nuclear weapons.
+
+
+
 ## Quotes
 
 pg 11: Black Rain is a portrait of a group of human beings; of the death of a great city; of a nation crumbling into defeat. It is a picture of the Japanese mind that tells more than many sociological studies. Yet more than this, it is a statement of a philosophy. Although that philosophy, in its essence, is neither pessimistic nor optimistic, it seems to me to be life affirming. Dealing with the grimmest of subjects, the work is not, in the end, depressing, for the author is ultimately concerned with life rather than with death, and with an overall beauty that transcends ugliness of detail.
@@ -46,26 +64,6 @@ pg 183: The piece of paper adjoining this once declared: "From Imperial Headquar
 pg 196: In the sky to the east, they could see a spreading black cloud. "I wonder what that is - a smoke screen from some maneuvuers, do you think?" her sister had sad. "IOf it's not, then it's something really big."
 
 pg 257: "An atomic bomb," he said, his face pale from the effect of the drink. "that's the name for it, apparently. It gives off a terrific radiation. I myself saw some bricks in the ruins that were all burnt away, with bubbles raised on the surface. The tiles, too, had gone a kind of flame color. A terrible thing they've produced. They say nothing'll grow in Hiroshima or Nagasaki for another seventy-five years."
-
-
-
-## Thoughts
-
-4/5 rating.
-
-Located in [[hiroshima, japan]], Black Rain shows the aftermath of August 6 1945's nuclear bombing. Throughout the book, the residents gradually makes sense of what happened; it was a war bomb but unlike any other bomb that came before. 
-
-There is no overt criticism from the writer and narrator for it places the focus on the residents' suffering, shock and their complex emotional landscape. The narrator paints the pain and suffering of the affected in a matter-of-fact tone, speaking as it is, showcasing the grotesque and factual horrors of the bombing aftermath on its people. 
-
-The atomic bomb scarred and transformed the physical and emotional topography of Hiroshima. The victims suffer thrice, first in tepid starvation and silent anger at the Imperial Japan Army. If it is as if the residents is accustomed to war, where it is bewilderingly commonplace to mobilize thousands of middle school students to assist with building demolition. Building demolition program was intended to create firebreaks to stop the spread of fires caused by air raids. 
-
-The victims suffer a second time, when the landmark atomic bomb lands on August 6; they suffer in painful agony and drawn-out deaths as thousands of residents are murdered, burned, disfigured and diseased from radiation sickness. Pus grows, maggots infest in their open wounds, their appetite slows, their hair falls, teeth drops and they fall to their death. 
-
-They suffer a third time, with guilt and shame as they are socially discriminated and labelled as hibakusha. Guilt from surviving the war while the rest of their common men did not. Shame from being a recovering patient, where even in good health, the certainty of marriage and employment becomes unclear.
-
-The book is a beautiful, open letter against war and nuclear weapons.
-
-
 
 
 
