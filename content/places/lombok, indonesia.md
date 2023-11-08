@@ -3,8 +3,6 @@ tags:
   - travel
   - indonesia
 ---
-- [https://www.weseektravel.com/secret-gili-islands-kedis-nanggu-sudak/](secret gili islands guide)
-
 [[lombok strait]]: south of lombok, near kuta
 
 **places to go/went** **& experienced

@@ -5,12 +5,13 @@ tags:
   - branch
   - book
 date completed: 2023-10-22
+author: Masuji Ibuse
 ---
 ## Notes
 
 4/5 rating.
 
-Located in [[hiroshima, japan]].
+Located in [[Hiroshima, Japan]].
 
 "Black Rain" depicts the aftermath of the nuclear bombing of Hiroshima on August 6, 1945. Throughout the book, the residents gradually makes sense of what happened; it was a war bomb but unlike any other that had come before. 
 

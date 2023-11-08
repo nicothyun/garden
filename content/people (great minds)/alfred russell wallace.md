@@ -10,6 +10,8 @@ tags:
 - spent 8 years in Southeast Asia, gathering 125,000 specimens and researching on the geographic distribution of animals where it became known as the [[lombok strait]]. 
 - wallace Line runs from the Indian Ocean to the Philippine Sea and signifies the unexpected distribution of animals on either side of the line. 
 
+- seems to be into taxidermy - needed for his role?
+
 **Books about / on Alfred Russell Wallace**
-- Malay Archipelago by Alfred Russell Wallace
+- [[Malay Archipelago]] by Alfred Russell Wallace
 - Radical by Nature by James T. Costa

@@ -1,1 +1,8 @@
 // put your custom CSS here!
+a.internal.tag-link{
+    background-color: var(--highlight);
+    border-radius: 8px;
+    font-size: 75%;
+    margin: 0 .1rem;
+    padding: .2rem .4rem;
+}

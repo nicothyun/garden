@@ -4,7 +4,7 @@ tags:
   - travel
   - japan
 ---
-**03/04/2023:** [[hiroshima museum of art]] 
+**03/04/2023:** [[Hiroshima Museum of Art]] 
 
 **04/04/2023:** hiroshima hiymajicha park  
 - on top of a hill  
@@ -15,3 +15,7 @@ tags:
 **06/04**  
 - Genbaku Dome Mae Station on the Hiroshima tram line.  
 - river lantern festival in hiroshima 4pm - 8pm
+
+**Books about Hiroshima**
+- [[Black Rain]]
+- Summer Flowers by Tamiki Hara

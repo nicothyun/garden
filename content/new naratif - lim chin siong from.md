@@ -1,0 +1,2 @@
+
+Well, in To Singapore With Love, when Ang Swee Chai, the wife of the left-wing activist Francis Khoo, thought that the Internal Security Department was coming to get them, she said she said to him “Then I better marry you. So that I can visit you in prison.” He was taken away three days later. 

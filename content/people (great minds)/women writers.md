@@ -4,4 +4,4 @@ tags:
   - literature
 ---
 - Sophia Tolstaya
-- Murusaki Shikibu (wrote [[the tales of genji by murusaki shikibu]])
+- Murusaki Shikibu (wrote [[The Tales of Genji]])

@@ -8,4 +8,4 @@ tags:
 
 refs
 - [[techno-optimism]]
-- [[fully automated luxury communism by aaron bastani]]
+- [[Fully Automated Luxury Communism]]

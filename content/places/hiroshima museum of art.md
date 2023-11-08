@@ -16,5 +16,5 @@ seiichi horiuchi - children book illustrations. his drawing and sketching remind
   
 saw up several manet, picasso, renoir pieces up close without the crowd  
   
-[[fukuoka art museum]]
-[[hiroshima, japan]]
+[[Fukuoka Art Museum]]
+[[Hiroshima, Japan]]

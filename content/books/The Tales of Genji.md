@@ -1,10 +1,11 @@
 ---
-title: the tales of genji
+title: The Tales of Genji
 tags:
   - japanese-literature
   - leaf
   - book
 draft: false
+author: Murusaki Shikibu
 ---
 date: 13-09-2023, nlb seminar by professor deborah shamoon. 
 social context
@@ -46,7 +47,7 @@ based on allusions. part of artistry is taking well known tropes and fitting int
 - cycles of karmic retribution  
 - spirit possession - lady rokujo gives eerie gothic tone where illness caused by vengeful spirits. women and female anger are seen as dangerously disruptive  because lady rokujo kills lady aoi - genji's first wife - and then lady murusaki  
 
-**[[women writers]]**  
+**[[Women Writers]]**  
 ---
 unusual to have major japanese classic to be written by women  
 women writers declined in end of heian period until late modern century as a more militaristic samurai culture replaced it
