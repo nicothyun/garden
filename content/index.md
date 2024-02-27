@@ -20,6 +20,11 @@ current areas of **interests** and abridged list of things i want to discover an
 - placemaking
 	- biopolitics
 	- urban planning
+- blockchain
+- 	web3 gaming
+-  	bitcoin defi
+-   restaking 
+	
 
 **Learning in public**
 - building my [[notetaking process]]  
