@@ -13,7 +13,7 @@ current areas of **interests** and abridged list of things i want to discover an
 - #natural-history
 - technology as a tool ([[techno-optimism]])
 - tourism and #travel 
-- #fringe-theories #conspiracy-theories as alternative modes of thinking and different paradigm to continually calibrate & challenge my current paradigm or mental modes 
+- #fringe-theories (conspiracy theories) as alternative modes of thinking and different paradigm to continually calibrate & challenge my current paradigm or mental modes 
 - video painting  
 - philosophy
 	- philosophy is a no man's land between theology and science, by betrand russell
@@ -23,5 +23,5 @@ current areas of **interests** and abridged list of things i want to discover an
 
 **Learning in public**
 - building my [[notetaking process]]  
-- Highlighted pages and readings across the interweb #clippings 
+- highlighted pages and readings across the interweb #clippings 
 - reading and consolidating them into [[books]] reviews & notes 

@@ -2,9 +2,9 @@
 id: 9172aca0-211e-4a11-9928-2b6a45389bde
 tags:
   - technology
+  - clippings
 ---
 
-#clippings
 [Read Original](https://www.gracekasten.xyz/a-modern-eden)
 
 ## Highlights

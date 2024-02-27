@@ -2,9 +2,9 @@
 id: 494f9138-8d8e-47fd-9248-06c5e15c82ec
 tags:
   - literature
+  - clippings
 ---
 
-#clippings
 [Read Original](https://www.herworld.com/pov/what-she-said-amanda-lee-koe)
 
 ## Highlights

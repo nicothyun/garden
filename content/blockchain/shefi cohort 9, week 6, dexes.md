@@ -75,7 +75,7 @@ Key components of an automated market makers:
 	- Aka smart contracts are the guaranteed counterparty
 	- No need to wait for 2 human counterparties. 
 - Rely on mathematical formulas to set the price of a token and to quote prices between two assets for trades
-	- E.g Uniswap V2 implements a constant product formulae: #X * #Y = K to price assets
+	- E.g Uniswap V2 implements a constant product formulae: X * Y = K to price assets
 
 **Why is this important?**
 - Anyone, anywhere in the world can list a token and create a market for it

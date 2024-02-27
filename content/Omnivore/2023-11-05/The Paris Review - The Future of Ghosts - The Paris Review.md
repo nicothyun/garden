@@ -3,10 +3,8 @@ id: 27befd63-cdc9-4774-a0b1-cb8cd5731666
 tags:
   - technology
   - literature
+  - clippings
 ---
-
-
-#clippins
 [Read Original](https://www.theparisreview.org/blog/2023/10/23/the-future-of-ghosts/)
 
 ## Highlights

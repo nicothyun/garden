@@ -2,9 +2,8 @@
 id: 88653496-a2d3-4c82-823d-61efa67c7712
 tags:
   - technology
+  - clippings
 ---
-
-#clippings
 [Read Original](https://nav.al/optimism)
 
 ## Highlights

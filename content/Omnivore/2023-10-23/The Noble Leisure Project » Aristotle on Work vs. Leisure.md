@@ -2,9 +2,9 @@
 id: edcaf5e6-71b3-11ee-9f0f-ef650a2b257b
 tags:
   - leisure
+  - clippings
 ---
 
-#clippings
 [Read Original](https://archive.blogs.harvard.edu/nobleleisure/aristotle-on-work-vs-leisure)
 
 ## Highlights
