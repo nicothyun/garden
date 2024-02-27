@@ -1,6 +1,0 @@
----
-tags:
-  - book
-date completed: 
-draft: true
----
