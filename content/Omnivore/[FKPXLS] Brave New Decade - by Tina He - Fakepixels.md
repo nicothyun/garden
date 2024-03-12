@@ -3,6 +3,7 @@ id: 695d2657-3970-4e87-98f7-55c3bd848ae4
 tags:
   - technology
   - clippings
+date: 10/25/2023
 ---
 
 [Read Original](https://fakepixels.substack.com/p/fkpxls-brave-new-decade?s=w)

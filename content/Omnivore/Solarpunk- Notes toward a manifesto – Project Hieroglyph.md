@@ -3,6 +3,7 @@ id: 6af9725a-4126-4705-b55f-a1a0116cd246
 tags:
   - technology
   - clippings
+date: 10/26/2023
 ---
 
 [Read Original](https://hieroglyph.asu.edu/2014/09/Solarpunk-notes-toward-a-manifesto)

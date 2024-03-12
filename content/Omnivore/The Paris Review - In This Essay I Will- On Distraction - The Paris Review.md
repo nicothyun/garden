@@ -3,6 +3,7 @@ id: 835fea6a-71b1-11ee-a9fb-8bb6c0cbdcca
 tags:
   - leisure
   - clippings
+date: 10/22/2023
 ---
 
 [Read Original](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction)

@@ -3,6 +3,7 @@ id: 214dd0c5-98d8-4afa-9169-74af1eb18a97
 tags:
   - literature
   - clippings
+date: 10/25/2023
 ---
 
 [Read Original](https://vogue.sg/singapore-writer-amanda-lee-koe-arise-donate-charities)
