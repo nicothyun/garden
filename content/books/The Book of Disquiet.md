@@ -2,7 +2,8 @@
 tags:
   - book
 date completed: ""
-author:
+author: 
+draft: true
 ---
 ## Notes
 
@@ -28,3 +29,22 @@ To all appearances, the monotony of ordinary lives is horrific. I'm having lunch
 
 
 … On the other hand, the traveller who has covered the globe can find nothing new for 5,000 miles around, because he's always seeing new things; there's novelty and there's the boredom of the eternally new and the latter brings about the death of the former. 
+
+pg 122: I love these solitary squares that are dotted amongst quiet streets and are themselves just as quiet and free of traffic. They are things that wait, useless clearings amidst distant tumults. They are remnants of village life surviving in the heart of the city. 
+
+Pg 125: Sad, in my quiet room, alone as I have always been and as I always will be, I sit writing. And I wonder if that seemingly feeble thing, my voice, does not perhaps embody the substance of thousands of voices, the hunger to speak out of thousands of live, the patience of millions of souls who, like me, have submitted in their daily lives to vain dreams and evanescent hopes. 
+
+pg 131: So each day I promenade my conscious unconsciousness along my particular branch of the tree of routine. I promenade my destiny which trots ahead without waiting for me and my time that advances even when I don't. And the only thing that saves me from the monotony are these brief notes I make about it. I am merely glad that in my cell there are glass panes this side of the bars and in large letters, in the dust of necessity, I write my daily signature on my contract with death. 
+
+Did I say my contract with death? No, not even with death. Anyone who lives the way I do does not die: he comes to an end, withers, merely ceases to vegetate. The space he occupied continues to exist without him, the street he walked along remains though he's no longer seen there, the house where he lived is inhabited by not-him.  
+
+
+pg 132: I never wanted to be understood by other people. To be understood is akin to prostituting oneself. I prefer to be taken seriously as what I am not and to be, with decency and naturalness, ignored as a person. 
+
+![[Pasted image 20240408225959.png]]
+
+pg 153: 
+![[Pasted image 20240408232140.png]]
+
+pg 158: 
+It is a rule of life that we can and must learn from everyone. There are serious matters in life to be learned from charlatans and bandits, there are philosophies to be gleaned from fools, real lessons for fortitude that come to us by chance and from those who depend on chance. Everything contains everything else. 

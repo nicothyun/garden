@@ -4,6 +4,7 @@ tags:
   - japanese-literature
 date completed: 2024-01-19
 author: Yukio Mishima
+date: 01/19/2024
 ---
 ## Notes
 

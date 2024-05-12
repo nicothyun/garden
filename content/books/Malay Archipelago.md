@@ -3,6 +3,7 @@ tags:
   - book
 date completed: 
 author: "[[Alfred Russell Wallace]]"
+draft: true
 ---
 ## Takeaways 
 

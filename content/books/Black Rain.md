@@ -6,6 +6,7 @@ tags:
   - book
 date completed: 2023-10-22
 author: Masuji Ibuse
+date: 10/22/2023
 ---
 ## Notes
 

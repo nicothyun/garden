@@ -6,6 +6,7 @@ tags:
   - book
 draft: false
 author: Murusaki Shikibu
+date: 09/13/2024
 ---
 date: 13-09-2023, nlb seminar by professor deborah shamoon. 
 social context
