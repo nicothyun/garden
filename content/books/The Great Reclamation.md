@@ -4,7 +4,7 @@ tags:
   - sg-literature
 date completed: 2023-12-22
 author: Rachel Heng
-date: 12/22/2023
+date:  2023-12-22
 ---
 ## Notes
 
