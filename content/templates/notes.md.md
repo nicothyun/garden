@@ -2,6 +2,7 @@
 title: Example 
 draft: false
 tags: 
+date: 
 - 
 --- 
 

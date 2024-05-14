@@ -2,7 +2,8 @@
 tags:
   - book
 date completed: 
-author:
+author: 
+date: 01/19/2024
 ---
 ## Takeaways 
 
