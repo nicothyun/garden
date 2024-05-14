@@ -10,7 +10,6 @@ on:
 
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
     strategy:
       matrix:
         os: [windows-latest, macos-latest, ubuntu-latest]
@@ -47,7 +46,6 @@ jobs:
         run: npx quartz build --bundleInfo
 
   publish-tag:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
