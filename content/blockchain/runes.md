@@ -2,7 +2,7 @@
 title: Example 
 draft: false
 tags: bitcoin, defi
-date: 19/04/2024
+date: 04/19/2024
 --- 
 
 - Runes are fungible tokens issued directly on Bitcoin using the Runes protocol. 

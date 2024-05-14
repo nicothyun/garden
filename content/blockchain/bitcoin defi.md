@@ -2,7 +2,7 @@
 title: Example 
 draft: false
 tags: bitcoin, defi
-date: 19/04/2024
+date: 04/19/2024
 --- 
 
 - Use of smart contracts to Bitcoin in order to unlock Bitcoin DeFi. However, bitcoin faces the blockchain trilemma challenges. 
