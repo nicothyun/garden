@@ -1,4 +1,4 @@
-baseURL = "https://nicothyun.github.io/"
+baseURL = "https://nicothyun.github.io/garden/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
