@@ -2,8 +2,7 @@
 title: Example 
 draft: false
 tags: bitcoin, defi
-date: 19/04/2024
-- 
+date: 04/19/2024
 --- 
 
 - BRC-20 was launched in March 2023 by pseudonymous developer [Domo](https://twitter.com/domodata). 
