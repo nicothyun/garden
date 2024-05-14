@@ -1,6 +1,5 @@
 ---
 id: ef8d7c25-5f01-4f9f-8d05-e88aad930df4
-date: 11/29/2023
 ---
 
 #clippings
