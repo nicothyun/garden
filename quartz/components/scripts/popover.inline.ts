@@ -1,16 +1,5 @@
 import { computePosition, flip, inline, shift } from "@floating-ui/dom"
-
-// from micromorph/src/utils.ts
-// https://github.com/natemoo-re/micromorph/blob/main/src/utils.ts#L5
-export function normalizeRelativeURLs(el: Element | Document, base: string | URL) {
-  const update = (el: Element, attr: string, base: string | URL) => {
-    el.setAttribute(attr, new URL(el.getAttribute(attr)!, base).pathname)
-  }
-
-  el.querySelectorAll('[href^="./"], [href^="../"]').forEach((item) => update(item, "href", base))
-
-  el.querySelectorAll('[src^="./"], [src^="../"]').forEach((item) => update(item, "src", base))
-}
+import { normalizeRelativeURLs } from "../../util/path"
 
 const p = new DOMParser()
 async function mouseEnterHandler(
@@ -18,6 +7,10 @@ async function mouseEnterHandler(
   { clientX, clientY }: { clientX: number; clientY: number },
 ) {
   const link = this
+  if (link.dataset.noPopover === "true") {
+    return
+  }
+
   async function setPosition(popoverElement: HTMLElement) {
     const { x, y } = await computePosition(link, popoverElement, {
       middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
@@ -28,8 +21,11 @@ async function mouseEnterHandler(
     })
   }
 
+  const hasAlreadyBeenFetched = () =>
+    [...link.children].some((child) => child.classList.contains("popover"))
+
   // dont refetch if there's already a popover
-  if ([...link.children].some((child) => child.classList.contains("popover"))) {
+  if (hasAlreadyBeenFetched()) {
     return setPosition(link.lastChild as HTMLElement)
   }
 
@@ -40,8 +36,6 @@ async function mouseEnterHandler(
   const hash = targetUrl.hash
   targetUrl.hash = ""
   targetUrl.search = ""
-  // prevent hover of the same page
-  if (thisUrl.toString() === targetUrl.toString()) return
 
   const contents = await fetch(`${targetUrl}`)
     .then((res) => res.text())
@@ -49,10 +43,21 @@ async function mouseEnterHandler(
       console.error(err)
     })
 
+  // bailout if another popover exists
+  if (hasAlreadyBeenFetched()) {
+    return
+  }
+
   if (!contents) return
   const html = p.parseFromString(contents, "text/html")
   normalizeRelativeURLs(html, targetUrl)
-  const elts = [...html.getElementsByClassName("popover-hint")]
+  let elts: Element[]
+  if (html.body.dataset.enablePreview === "false") {
+    const noPreview = document.createElement("div")
+    noPreview.innerHTML = `<p>Preview is disabled for this page.</p>`
+    elts = [noPreview]
+  } else elts = [...html.getElementsByClassName("popover-hint")]
+
   if (elts.length === 0) return
 
   const popoverElement = document.createElement("div")
@@ -77,7 +82,7 @@ async function mouseEnterHandler(
 document.addEventListener("nav", () => {
   const links = [...document.getElementsByClassName("internal")] as HTMLLinkElement[]
   for (const link of links) {
-    link.removeEventListener("mouseenter", mouseEnterHandler)
     link.addEventListener("mouseenter", mouseEnterHandler)
+    window.addCleanup(() => link.removeEventListener("mouseenter", mouseEnterHandler))
   }
 })
