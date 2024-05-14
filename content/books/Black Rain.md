@@ -27,8 +27,7 @@ They suffered a third time, burdened with guilt and shame as they were socially 
 The book is a beautiful, open letter against war and nuclear weapons.
 
 
-<details>
-<summary><h3>Quotes</h3></summary>
+<details><summary><h3>Quotes</h3></summary>
 <br>
 pg 11: Black Rain is a portrait of a group of human beings; of the death of a great city; of a nation crumbling into defeat. It is a picture of the Japanese mind that tells more than many sociological studies. Yet more than this, it is a statement of a philosophy. Although that philosophy, in its essence, is neither pessimistic nor optimistic, it seems to me to be life affirming. Dealing with the grimmest of subjects, the work is not, in the end, depressing, for the author is ultimately concerned with life rather than with death, and with an overall beauty that transcends ugliness of detail.
 

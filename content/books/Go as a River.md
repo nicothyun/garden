@@ -12,6 +12,8 @@ date: 11/05/2024
 
 - four corners monument 
 - "Man flooded the town of Iola; now nature is bringing back its ghost" by [The Los Angeles Times](https://www.latimes.com/nation/la-na-blue-mountain-reservoir-20190109-story.html)
+- racism & bigotry
+- women's suffering against bigotry, sacrifices and grief
 
 
 <details>
