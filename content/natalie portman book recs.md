@@ -1,9 +1,7 @@
 ---
-tags:
-  - book
+tags: books
 date completed: 
 author: 
-date: 01/19/2024
 ---
 [(1) The Dior Book Tote Club with Natalie Portman - YouTube](https://www.youtube.com/watch?v=etyv4GmNYx4) 
 

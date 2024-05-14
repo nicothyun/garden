@@ -5,7 +5,7 @@ tags:
   - book
 date completed: 2023-08-22
 author: Haruki Murukami
-date: 08/22/2023
+date: 2023-08-22
 ---
 
 ### Notes
