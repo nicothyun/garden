@@ -1,6 +1,6 @@
 ---
 id: 7eb7dd01-23cd-49c0-87b4-9c8e25ed40f2
-date: 01/22/2024
+date: 2024-01-22
 ---
 
 #clippings

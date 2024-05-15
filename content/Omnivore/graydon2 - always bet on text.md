@@ -3,7 +3,7 @@ id: ec4a5c97-7b41-40c2-a750-cc8f1b25de77
 tags:
   - technology
   - clippings
-date: 10/24/2023
+date: 2023-10-24
 ---
 
 [Read Original](https://graydon2.dreamwidth.org/193447.html)

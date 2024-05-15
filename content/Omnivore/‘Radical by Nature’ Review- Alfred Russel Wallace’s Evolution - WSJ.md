@@ -3,7 +3,7 @@ id: 311050a3-ab8b-4499-b2d4-e9dbff2b87c2
 tags:
   - natural-history
   - clippings
-date: 10/27/2023
+date: 2023-03-1510
 ---
 [Read Original](https://archive.ph/KwxZ1)
 

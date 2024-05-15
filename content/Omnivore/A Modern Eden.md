@@ -3,7 +3,7 @@ id: 9172aca0-211e-4a11-9928-2b6a45389bde
 tags:
   - technology
   - clippings
-date: 10/24/2023
+date: 2023-10-24
 ---
 
 [Read Original](https://www.gracekasten.xyz/a-modern-eden)

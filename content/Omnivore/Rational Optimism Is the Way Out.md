@@ -3,7 +3,7 @@ id: 88653496-a2d3-4c82-823d-61efa67c7712
 tags:
   - technology
   - clippings
-date: 11/08/2023
+date: 2023-08-11
 ---
 [Read Original](https://nav.al/optimism)
 

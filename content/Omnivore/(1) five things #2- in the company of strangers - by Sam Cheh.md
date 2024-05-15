@@ -1,6 +1,6 @@
 ---
 id: 1b6b173d-004c-4988-8b61-6412d51e8ff0
-date: 01/29/2024
+date: 2024-01-29
 tags:
   - people-watching
   - clippings

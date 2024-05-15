@@ -1,9 +1,9 @@
 ---
 id: 75f29443-0a8e-4145-bac9-362ad3b4d9aa
-date: 02/27/2024
+date: 2024-02-27
 tags:
-  - blockchain
   - clippings
+  - blockchain
 ---
 
 #clippings

@@ -3,7 +3,7 @@ id: edcaf5e6-71b3-11ee-9f0f-ef650a2b257b
 tags:
   - leisure
   - clippings
-date: 10/22/2023
+date: 2023-10-22
 ---
 
 [Read Original](https://archive.blogs.harvard.edu/nobleleisure/aristotle-on-work-vs-leisure)
