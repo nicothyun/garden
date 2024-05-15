@@ -1,17 +1,18 @@
 ---
 tags:
   - book
-  - sg-literature
+  - seed
 date completed: 2023-12-22
 author: Rachel Heng
-date:  2023-12-22
+date: 12/22/2023
 ---
 ## Notes
 
+#sg-literature 
 4/5 rating.
 
 <details>
-<summary><h3>Quotes</h3></summary>
+<summary><b>Quotes</b></summary>
 <br>
 pg 10: The kampong was still destroyed, not swallowed whole by the waves in accordance with some angry god’s decree, as the villagers had always feared, but taken to pieces and sold for parts by the inhabitants themselves.
 

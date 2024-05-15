@@ -11,7 +11,7 @@ x/5 rating.
 
 
 <details>
-<summary><h3>Quotes</h3></summary>
+<summary><b>Quotes</b></summary>
 <br>
 
 pg 17: 

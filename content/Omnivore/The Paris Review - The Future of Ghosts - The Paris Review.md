@@ -4,7 +4,7 @@ tags:
   - technology
   - literature
   - clippings
-date: 11/25/2023
+date: 2023-11-22
 ---
 [Read Original](https://www.theparisreview.org/blog/2023/10/23/the-future-of-ghosts/)
 

@@ -1,14 +1,16 @@
 ---
 tags:
   - book
-  - leaf
-  - natural-history
-  - historical-fiction
+  - seed
 date completed: 2024-05-12
 author: Shelley Read
-date: 2024-05-12
+date: 11/05/2024
+title: Go as a River
 ---
+
 ## Notes
+
+#natural-history #historical-fiction
 
 - four corners monument 
 - "Man flooded the town of Iola; now nature is bringing back its ghost" by [The Los Angeles Times](https://www.latimes.com/nation/la-na-blue-mountain-reservoir-20190109-story.html)
@@ -16,8 +18,7 @@ date: 2024-05-12
 - women's suffering against bigotry, sacrifices and grief
 
 
-<details>
-<summary><h3>Quotes</h3></summary>
+<details><summary><b>Quotes</b></summary>
 <p>
 pg 7: I knew the town of Iola when it woke each morning to fragrant breakfasts and bustling farms and ranches, how the sunrise illuminated the east side of Main then inched uptown, across the train tracks and schoolyard, to ignite the tiny church's one round red and blue stained glass window... I knew all the shortcuts and townsfolk and the oldest gnarled tree consistently producing the sweetest peaches in my family's orchard. And I knew, perhaps more than most, the sadness of this place. 
 <p>

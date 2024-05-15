@@ -1,38 +1,38 @@
 ---
 tags:
-  - japanese-literature
   - branch
   - book
 date completed: 2023-08-22
 author: Haruki Murukami
-date: 2023-08-22
+date: 08/22/2023
+title: "Underground: The Tokyo Gas Attack and the Japanese Psyche"
 ---
 
 ### Notes
+
+#japanese-literature #cult
 
 - aum followers share an emptiness and search for 'truth', for higher purpose beyond being merely a cog in life
 - murukami thinks they are logically consistent to a point where they use the utility of logic as a weapon and end up slaughtering masses of people
 - wants to build an utopia without contradictions
 - humanist vs ??? binary or grey areas
 
-perhaps my favourite book from him? it takes all those years of searching and wandering, aimlessly trying to find an alternative world induced with meaning and higher purpose and culminates it into this book about the japanese society from the POV of the ordinary indiscriminate everyday men to the outsiders, aum followers.
+<p>perhaps my favourite book from him? it takes all those years of searching and wandering, aimlessly trying to find an alternative world induced with meaning and higher purpose and culminates it into this book about the japanese society from the POV of the ordinary indiscriminate everyday men to the outsiders, aum followers.</p>
 
 > _**pg 306: In this sense I think the gas attack was a kind of catharsis, a psychological release of everything that had built up in Japan - the malice, the distorted consciousness we have. Not that the Aum incident got rid of everything. There’s still this suppressed, virus-like apocalyptic vision that’s invading society and hasn’t been erased or digested.**_
 
 - even if you could get rid of it at an individual level, the virus would remain on a social level.
-
 - maybe if I had been in Japan then and was 21-23, I would have been seduced by their cultist philosophy and ascetic way of life.
-- evokes Nazi Germany, Hitler
-- aum, ashara
+- aum, ashara;;;;evokes Nazi Germany, Hitler and all the cults that come before it. during economic uncertainty, it is more probable to "prey on" people's vulnerabilities and to convert them. 
 - everyone including myself could be one of them, when logic is weaponized and willed to create that utopia they want.
 - it was horrifying for ordinary ppl that encountered the sarin attacks.
-- cried at a few parts especially with the widow that lost her husband
-- cried at the helplessness of the system and society
-- marvelled at the doctors trying their best
-- I guess this is why liquid in check in is so strict. was thinking if there was a sarin attack in the airplane, everyone including me would have surely died then.
-- the inklings from underground feeding on rotten fleshes. our weaknesses and inhumanity at the end.
-
-### **Quotes**
+- *emotions:* 
+	- cried at a few parts especially with the widow that lost her husband
+	- cried at the helplessness of the system and society
+	- marvelled at the doctors trying their best
+	- I guess this is why liquid in check in is so strict. was thinking if there was a sarin attack in the airplane, everyone including me would have surely died then.
+- the metaphor of the inklings from underground feeding on rotten fleshes. our weaknesses and inhumanity at the end.
+### <details><summary><b>Quotes</b></summary>
 
 pg 10: As if it weren’t enough to be the victim of purely random violence, the man had suffered “secondary victimization” (everyday corporate violence of the most pervasive kind)
 
@@ -111,3 +111,4 @@ pg 311: For the most part they were young, extremely talented, and well educated
 pg 313: Reality is created out of confusion and contradiction, and if you exclude those elements, you’re no longer talking about reality. You might think that — by following language and a logic that appears consistent — you are able to exclude that aspect of reality, but it will always be lying in wait for you, ready to take its revenge.
 
 pg 315: However we need to realize that most of the people who join cults are not abnormal; they are not disadvantaged; they’re not eccentrics. They are the people who live average lives (and maybe from the outside, more than average lives), who live in my neighbourhood. And in yours. Maybe they think about things a little too seriously. Perhaps there’s some pain they’re carrying around inside. They’re not good at making their feelings known to others and are somewhat troubled. They can’t find a suitable means to express themselves, and bounce back and forth between feelings of pride and inadequacy. They might very well be me. It might be you.
+</details> 

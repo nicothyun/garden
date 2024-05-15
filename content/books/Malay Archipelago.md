@@ -3,6 +3,7 @@ tags:
   - book
 date completed: 
 author: "[[Alfred Russell Wallace]]"
+draft: true
 ---
 ## Takeaways 
 
@@ -15,7 +16,7 @@ author: "[[Alfred Russell Wallace]]"
 
 
 <details>
-<summary><h3>Annotations</h3></summary>
+<summary><b>Quotes</b></summary>
 <br>
 pg 83: *on his trek to summit of Mount Ophir*
 
